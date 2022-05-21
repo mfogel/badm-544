@@ -1,0 +1,29 @@
+Uber's (proposed) mission: to effortlessly connect those that need mobility with those who provide it.
+
+This is a good mission statement for a few reasons. First, it emphasizes social value, rather than monetary value. There are two primary beneficiaries of social value in the statement: those that need mobility, and those that provide it. Second, it is focused on a need or problem to address, rather than a good or service the company provides. Third, it fits with what the company actually does. The product and services Uber provides are match this mission statement. Finally, it is short, inspiring, and memorable.
+
+Analysis of Uber's business model using the VARS framework
+
+V: Value Proposition
+
+How does Uber create value? To the user who requires the mobility (either of themselves or of a good, for example via Uber Eats) Uber creates value for them by providing them with instant, on-demand access to the mobility they need. For the driver, Uber creates value by providing them a new, flexible revenue stream. Uber is also able to provide this service at a reduced cost compared to alternatives (ex: the taxi industry) buy eliminating waste: drivers wandering around looking for rides, passengers standing on a street corner waiting for a cab, trying to yell at a cab, trying desperately to be seen.
+
+A: Activities, Resources, Capabilities
+
+Activities: Uber needs to build and distribute the apps that allow the connection between drivers and those in need of mobility to happen. Uber needs to vet drivers. Uber needs to work with local authorities in each geography they wish to provide their services in to ensure they meet the local regulations. Uber will need to mediate disputes between drivers and users.
+
+Resources: Uber needs to have several applications, to allow drivers and people to connect. Uber needs to have algorithms to route drivers to provide a reliable level of service. Uber needs to have the ability to collect payment and pay drivers in all the local geographic regions they whish to operate in.
+
+Capabilities: Uber needs to be able to write the software to run the apps they need to run, and the algorithms they need to write. Uber needs to be able to train drivers. Uber needs to be able to talk to and work with people in all geographic regions they wish to operate in.
+
+R: Revenue Model
+
+Uber captures value by handling the payment between the user and the driver, and then taking a percentage of that transition. By handling the payment process both provides value to both parties, as well as provides a straight-forward way to capture some of the value they're providing to the drivers and users.
+
+Uber has experimented with some interesting evolutions of their revenue model. First, they've tried to cut drivers out of the picture by developing self-driving car technology. This effort has not panned out as hoped for, and has been sold out of the company. Second, UberPool is a service that allows Uber to increase the number of passengers per car and thus cut their driver cost. Third, UberPass is a subscription-based service that provides discounted access to Uber services.
+
+S: Scope of the Enterprise
+
+Uber chooses to specifically exclude drivers from their enterprise. Rather than consider them to be employees, they are considered to be independent contractors. Furthermore, Uber limits themselves (so far) to provide relatively short mobility. Uber doesn't enable global supply chains, or provide inter-continental mobility to users.
+
+Uber's scope has arguably increased over its life as a company. The company initially was focused on connected drivers with passengers, and to my knowledge, nothing more. However, they choose to expand into connecting drivers with deliveries, and drivers with people who need errand down. The core technology used to provide these additional services was deemed to be so similar to that of their original use case, that these "nearby" services could be provided at little additional cost, and hence the scope of the enterprise expanded to cover them.
