@@ -180,7 +180,7 @@ How to internationalize
 
 "Born global" firms
 
-- increasingly, firms are international from birth)
+- increasingly, firms are international from birth
 - overcoming foreign entry challenges by using
   - global communications networks (internet)
   - global flows of talent and entrepreneurs
@@ -291,14 +291,14 @@ Interview with John Deer exec
 
 Four MNE Strategies
 
-- International strategy
+- International strategy (low cost reduction & low local responsiveness)
   - leveraging home-based core competencies
   - selling the same products or services in both domestic and foreign markets
   - ex: starbucks
   - often the first in internationalizing
   - leverages core competences
   - economies of scale
-  - los-cost implementation
+  - low-cost implementation
   - no or limited local responsiveness
   - highly affected by exchange rate fluctuations
   - IP embedded in product or service could be expropriated
@@ -326,7 +326,7 @@ Four MNE Strategies
   - some exchange-rate exposure
   - "race to the bottom" as wages increase
   - some risk of IP expropriation
-- Transnational strategy
+- Transnational strategy (high cost reduction & high local responsiveness)
   - combination of localization strategy (responsiveness) with global strategy
     (low-cost position)
   - think of value chain, backward vs forward integration. Backward side can be
@@ -335,7 +335,7 @@ Four MNE Strategies
   - ex: German multimedia conglomerate Bertelsmann
   - attempts to combine benefits of localization and standardization strategies
     simultaneously by creating a global matrix structure
-  - economies of scale, location , and learning
+  - economies of scale, location, and learning
   - global matrix structure is costly and difficult to implement, leading to
     high failure rate
   - some exchange-rate exposure

@@ -47,7 +47,7 @@ Vertical Integration Terminology
   - horizontal: different products, services
   - vertical integration:
     - usually along the value chain forward or backward
-    - but can applies to anything in the value network, if that's a better model
+    - but can apply to anything in the value network, if that's a better model
       for your business
 - Forward and backward integration
   - applies to integrations along a value chain
@@ -68,7 +68,7 @@ Motivations for outsourcing
 - ability to aggregate demand (and thus build scale)
 - responsive to market and technology trends (smaller orgs can pivot faster)
 
-Motivations for vertical integrating
+Motivations for vertical integration
 
 - market power
   - entry barriers
@@ -138,7 +138,7 @@ Three key transactions costs
   - asset specificity
   - uncertainty and opportunism
   - after the transaction/contract, something changes so that one party gains an
-    upper hand and gain engage in opportunism
+    upper hand and can engage in opportunism
   - opportunism: self-interest seeking, with guile
   - examples:
     - one party has to invest in assets that's specific to the agreement
@@ -222,7 +222,7 @@ BCG Growth-Share Matrix (1970s)
 
 - developed by Boston Consulting Group for their client, GE
 - idea:
-  - corporations should be active in industries if various stages of development
+  - corporations should be active in industries in various stages of development
     (nascent, growing, mature, etc)
   - create a balanced portfolio of SBU (Strategic Business Units)
 - strategy in a two-dimensional space

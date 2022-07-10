@@ -63,7 +63,7 @@ Are M&A's Value-creating?
   - value goes to the target shareholders
 - impacts on the acquirers stock price
   - short-run: on average, neutral
-  - lon-run: significant declines (on average)
+  - long-run: significant declines (on average)
 - big examples of value destruction in M&A
   - AOL & Time Warner
   - Daimer Benz & Chrysler (more value destroyed that the value of the deal!)
@@ -103,7 +103,7 @@ And it could be even worse: The Winner's Curse
 
 - in a competitive bidding war (auction) the acquirer has to be the highest
   bidder to get the target
-- to justify a high bid, the acquirer would typically have a more optimistic
+- to justify a high bid, the acquirer would typically have the most optimistic
   valuation of the target
 - if potential acquirers get the valuation right on average, winning bidders
   would typically over-value the target
@@ -116,10 +116,8 @@ Value creating M&As?
   - an advantage from combining two businesses
   - why related diversification is value-creating
 - organizational capabilities play a key role
-
   - developing new capabilities: stretching
   - applying own capabilities: leveraging
-
 - research:
   - M&As that don't include synergies on average kill a lot of value
   - M&As with stretching or leveraging create value
@@ -236,7 +234,7 @@ Interview: Mark Moran - John Deer
 
 Divestitures
 
-- transactions that break up and separate a business unit from a compnay
+- transactions that break up and separate a business unit from the company
   - not selling assets of a business
   - spin (split) offs, carve outs, unit sales
 
@@ -432,11 +430,11 @@ Intertemporal effects
 
 - learning and capability augmentation
 - creating and freeing-up redeployable resources
-- inter-unit resource re-deployment (ex: acqua-hire)
+- inter-unit resource re-deployment (ex: acqui-hire)
 - example: Google purchased Android in 2005
   - key employees moved over to Google, and took up key roles
   - google later formed alliances with device manufactures, to commercialize
-    andriod
+    android
   - google later purchased motorola, then later divested most of it
 - real options for future transactions
   - like a financial option, but with real resources
