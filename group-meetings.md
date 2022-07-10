@@ -1,5 +1,16 @@
 # Group meetings
 
+## Sat 2022-06-04
+
+- group members will submit their sections by 8pm Pacific time on monday
+- On monday I will
+  - join everyone's work together in a master doc
+  - citations, memo format, make it flow, etc
+  - submit that master doc EOD on Monday when I'm happy with it
+- On tuesday
+  - group will review that master doc, make any changes they see fit
+  - we will re-submit if there's any updates
+
 ## Tues 2022-05-31
 
 ### My TODOs
